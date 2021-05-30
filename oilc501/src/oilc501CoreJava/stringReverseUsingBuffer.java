@@ -1,7 +1,5 @@
 package oilc501CoreJava;
 
-import java.util.Scanner;
-
 public class stringReverseUsingBuffer {
 
 	public static void main(String[] args) {
