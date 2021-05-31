@@ -1,4 +1,4 @@
-package oilc501CoreJava;
+package may28;
 
 public class SingleArray {
 	public static void main(String[] args) {

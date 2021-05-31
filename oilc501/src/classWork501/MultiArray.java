@@ -1,4 +1,4 @@
-package oilc501CoreJava;
+package classWork501;
 
 public class MultiArray {
 

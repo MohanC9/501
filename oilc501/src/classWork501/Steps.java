@@ -1,6 +1,6 @@
-package oilc501CoreJava;
+package classWork501;
 
-public class ghdh {
+public class Steps {
 	public static void main(String[] args) {
 		
 		//char s ='*';

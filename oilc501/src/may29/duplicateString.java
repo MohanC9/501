@@ -1,4 +1,4 @@
-package oilc501CoreJava;
+package may29;
 
 public class duplicateString {
 	public static void main(String argu[]) {

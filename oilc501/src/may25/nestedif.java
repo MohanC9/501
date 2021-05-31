@@ -1,4 +1,4 @@
-package oilc501CoreJava;
+package may25;
 
 public class nestedif {
 	 public static void main(String[] args)

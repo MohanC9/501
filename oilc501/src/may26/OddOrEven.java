@@ -1,4 +1,4 @@
-package oilc501CoreJava;
+package may26;
 import java.util.Scanner;
 
 public class OddOrEven {
