@@ -1,4 +1,4 @@
-package jun01;
+package may31;
 
 public class returnAllDataTypes {
 	public static int m1(int a) {

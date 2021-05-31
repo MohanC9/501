@@ -1,4 +1,4 @@
-package jun01;
+package may31;
 
 public class MethodTypes {
 	public static String StaticMethod(String s) {
